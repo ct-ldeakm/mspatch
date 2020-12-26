@@ -1,5 +1,5 @@
 # MSPATCH
-msptch is simple, low dependancy, service that reports "Windows Update" results to cloud based blob storage. 
+MSPATCH is simple, low dependency, service that reports "Windows Update" results to cloud based blob storage. 
 ## Features
 1. Windows Installer x86 & x64
 1. Compressed posted payloads
