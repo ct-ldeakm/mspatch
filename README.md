@@ -6,8 +6,11 @@ msptch is simple, low dependancy, service that reports "Windows Update" results 
 1. Data of last "Windows Update" scan results
 
 ## Security
-Unlike other tools of this nature. MSPATCH requires on the rights needed.
+Unlike other tools of this nature. MSPATCH requires only the security right needed to preform a Windows Update scan.
 
 ## Configuration Options
 1. Destination bucket (GCP only) ATM
 1. HTTP Proxy for outbound report HTTP POST requests
+
+## Service Design Document
+https://docs.google.com/document/d/1wPW95FD69rzcDKDUh0pBLv6Hl_WeHgeC0-nsmivIVj4/edit
